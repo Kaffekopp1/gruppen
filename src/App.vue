@@ -7,6 +7,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 		<h1>HEJ GRUPPEN</h1>
 		<h2>Hej Peter</h2>
 		<h3>Hej Linda</h3>
+		<p>Peter Ändrar för att testa</p>
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 </template>
