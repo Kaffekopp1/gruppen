@@ -26,7 +26,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 				tokkorv
 			</li>
 			<li>
-				Bkorv
+				lökkorv
 			</li>
 		</ul>
 
