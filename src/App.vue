@@ -8,6 +8,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 		<h2>Hej Peter</h2>
 		<h3>Hej Linda</h3>
 		<p>Peter Ändrar för att testa</p>
+		<p>Hej patrik</p>
 	</div>
 	<div>
 		<ul>
