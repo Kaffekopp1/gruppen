@@ -11,6 +11,23 @@ import HelloWorld from "./components/HelloWorld.vue";
 		<p>Hej patrik</p>
 		<p>Hej patrik2</p>
 	</div>
+	<div>
+		<ul>
+			<li>
+				varmkorv
+			</li>
+			<li>
+				falukorv
+			</li>
+			<li>
+				ölkorv
+			</li>
+			<li>
+				tokkorv
+			</li>
+		</ul>
+		
+	</div>
 	<HelloWorld msg="Vite + Vue" />
 </template>
 
