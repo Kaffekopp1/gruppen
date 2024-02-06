@@ -9,6 +9,19 @@ import HelloWorld from "./components/HelloWorld.vue";
 		<h3>Hej Linda</h3>
 		<p>Peter Ändrar för att testa</p>
 	</div>
+	<div>
+		<ul>
+			<li>
+				varmkorv
+			</li>
+			<li>
+				falukorv
+			</li>
+			<li>
+				ölkorv
+			</li>
+		</ul>
+	</div>
 	<HelloWorld msg="Vite + Vue" />
 </template>
 
