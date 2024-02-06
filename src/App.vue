@@ -25,8 +25,11 @@ import HelloWorld from "./components/HelloWorld.vue";
 			<li>
 				tokkorv
 			</li>
+			<li>
+				Bkorv
+			</li>
 		</ul>
-		
+
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 </template>
